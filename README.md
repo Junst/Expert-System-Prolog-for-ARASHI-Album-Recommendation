@@ -23,6 +23,8 @@
 ### Fuzzy System
 
 ![image](https://github.com/Junst/Expert-System-Prolog-for-ARASHI-Album-Recommandation/blob/master/Fuzzy%20System/Fuzzy.png)
-
+![image](https://github.com/Junst/Expert-System-Prolog-for-ARASHI-Album-Recommandation/blob/master/Fuzzy%20System/%ED%8D%BC%EC%A7%801.jpg)
+![image](https://github.com/Junst/Expert-System-Prolog-for-ARASHI-Album-Recommandation/blob/master/Fuzzy%20System/%ED%8D%BC%EC%A7%802.jpg)
+![image](https://github.com/Junst/Expert-System-Prolog-for-ARASHI-Album-Recommandation/blob/master/Fuzzy%20System/%ED%8D%BC%EC%A7%803.jpg)
 -----------------------------------------------------------------------
 아라시~ 아라시~ 포드림~
