@@ -1,5 +1,5 @@
-# Expert-System-Prolog-for-ARASHI-Album-Recommandation
-### Expert System : Prolog for ARASHI Album Recommandation
+# Expert-System-Prolog-for-ARASHI-Album-Recommendation
+### Expert System : Prolog for ARASHI Album Recommendation
 
 제 블로그에 설명을 같이 올려놨습니다.
 
